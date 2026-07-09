@@ -1,0 +1,35 @@
+============================================================
+MONEY DETECTIVE — REPORT
+============================================================
+
+Total transactions analyzed: 36
+GRAND TOTAL SPENT (this period): PKR 111,970.00
+  -> Compare this number to your known baseline (e.g. your bank
+     statement's closing total spend) before trusting anything below.
+
+--- Category Breakdown ---
+  Rent                 PKR 45,000.00
+  Groceries            PKR 20,350.00
+  Subscriptions        PKR 16,350.00
+  Utilities            PKR 12,650.00
+  Other                PKR 6,650.00
+  Food Delivery        PKR 5,270.00
+  Transport            PKR 3,350.00
+  Trading/Broker Fees  PKR 2,350.00
+
+--- Possible Duplicate / Repeated Charges (within 3 days) ---
+  ⚠ 'Netflix Subscription' charged PKR 1,100.00 twice: 2026-06-05 and 2026-06-05 (0 day(s) apart)
+
+--- Recurring Charges (possible subscriptions) ---
+  Grocery Store - Al Fatah       x5  total PKR 20,350.00  (avg PKR 4,070.00)
+  Gym Membership                 x2  total PKR 6,000.00  (avg PKR 3,000.00)
+  TradingView Pro Subscription   x2  total PKR 5,600.00  (avg PKR 2,800.00)
+  Foodpanda Order                x5  total PKR 5,270.00  (avg PKR 1,054.00)
+  Careem Ride                    x5  total PKR 3,350.00  (avg PKR 670.00)
+  Netflix Subscription           x3  total PKR 3,300.00  (avg PKR 1,100.00)
+  Mobile Load - Jazz             x2  total PKR 2,000.00  (avg PKR 1,000.00)
+
+--- Flag: Subscriptions worth double-checking ---
+  (Recurring AND small/easy-to-forget: Spotify, Adobe, VPN, Prime Video)
+
+============================================================
