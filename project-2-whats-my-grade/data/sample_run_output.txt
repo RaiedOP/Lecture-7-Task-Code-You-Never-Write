@@ -1,0 +1,14 @@
+============================================================
+WHAT'S MY GRADE, REALLY — REPORT
+============================================================
+  Quizzes        avg  85.00%  x weight 15%  = 12.75 pts (lowest 1 dropped)
+  Assignments    avg  90.00%  x weight 20%  = 18.00 pts
+  Midterm        avg  78.00%  x weight 20%  = 15.60 pts
+  Participation  avg  95.00%  x weight 10%  =  9.50 pts
+  Final          avg   0.00%  x weight 35%  =  0.00 pts
+
+CURRENT GRADE (as it stands right now): 55.85%
+
+Target grade: 85.0%
+  ➤ You need at least 83.29% on the Final Exam to reach 85.0%.
+============================================================
