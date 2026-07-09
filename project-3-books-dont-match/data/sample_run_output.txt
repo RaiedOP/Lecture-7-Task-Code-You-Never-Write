@@ -1,0 +1,31 @@
+============================================================
+THE BOOKS DON'T MATCH — RECONCILIATION REPORT
+============================================================
+
+Known hand-counted total (the target):  PKR 40,000.00
+Raw sum of ALL digital entries (before any rules): PKR 39,500.00
+
+--- Per-Person Resolved Totals ---
+  Ahmed      PKR  5,000.00  ✅ fully paid
+  Sara       PKR  5,000.00  ✅ fully paid
+  Bilal      PKR  7,500.00  ⚠ OVERPAID by PKR 2,500.00
+  Hassan     PKR  5,000.00  ✅ fully paid
+  Zainab     PKR  5,000.00  ✅ fully paid
+  Ayesha     PKR  5,000.00  ✅ fully paid
+  Usman      PKR      0.00  ⚠ HAS NOT PAID
+  Fatima     PKR      0.00  ⚠ HAS NOT PAID
+
+--- Excluded Entries (personal-knowledge rule applied) ---
+  Excluded: 2026-06-07 'Hassan' PKR 2,000.00 — memo: 'already paid part' (unrelated to trip dues)
+
+--- Unmatched Entries (need follow-up — do NOT guess) ---
+  ❓ 2026-06-06 sender='unknown' PKR 5,000.00 memo: 'cash deposit'
+
+Matched total (resolved to a named person): PKR 32,500.00
+Unmatched (unknown sender) total: PKR 5,000.00
+
+GAP vs. known hand-counted total: PKR 7,500.00 still unaccounted for
+
+Follow up with: Usman, Fatima (no payment recorded under their name)
+Also confirm who the 'unknown / cash deposit' entry belongs to — it may cover one of the people above.
+============================================================
