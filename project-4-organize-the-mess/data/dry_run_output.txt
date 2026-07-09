@@ -1,0 +1,41 @@
+============================================================
+ORGANIZE THE MESS — PROPOSED PLAN (nothing has moved yet)
+============================================================
+
+Destination for organized copy: ./organized/  (originals untouched)
+
+--- Duplicate files found (5) ---
+  DUPLICATE: 'sample_messy_folder/Downloads/report_final.docx'
+    -> same content as: 'sample_messy_folder/Documents/report_final(1).docx'
+    -> proposed action: skip copying this one (keep only the first)
+  DUPLICATE: 'sample_messy_folder/Downloads/report_final_v2.docx'
+    -> same content as: 'sample_messy_folder/Documents/report_final(1).docx'
+    -> proposed action: skip copying this one (keep only the first)
+  DUPLICATE: 'sample_messy_folder/Screenshots/Screenshot 2026-05-01 at 10.00.00.png'
+    -> same content as: 'sample_messy_folder/Downloads/IMG_2043.png'
+    -> proposed action: skip copying this one (keep only the first)
+  DUPLICATE: 'sample_messy_folder/Screenshots/Screenshot 2026-05-02 at 11.00.00.png'
+    -> same content as: 'sample_messy_folder/Downloads/IMG_2043.png'
+    -> proposed action: skip copying this one (keep only the first)
+  DUPLICATE: 'sample_messy_folder/Downloads/invoice_2026_06.pdf'
+    -> same content as: 'sample_messy_folder/Downloads/invoice_2026_06 (copy).pdf'
+    -> proposed action: skip copying this one (keep only the first)
+
+--- Files to be copied into organized folders ---
+  ./organized/Documents/  <- 6 file(s)
+      COPY 'sample_messy_folder/Documents/essay_draft.txt'  ->  './organized/Documents/essay_draft.txt'
+      COPY 'sample_messy_folder/Documents/trading_notes_draft.txt'  ->  './organized/Documents/trading_notes_draft.txt'
+      COPY 'sample_messy_folder/Documents/old_project_notes.txt'  ->  './organized/Documents/old_project_notes.txt'
+      COPY 'sample_messy_folder/Documents/untitled document.txt'  ->  './organized/Documents/untitled document.txt'
+      COPY 'sample_messy_folder/Documents/report_final(1).docx'  ->  './organized/Documents/report_final(1).docx'
+      COPY 'sample_messy_folder/Downloads/invoice_2026_06 (copy).pdf'  ->  './organized/Documents/invoice_2026_06 (copy).pdf'
+  ./organized/Images/  <- 1 file(s)
+      COPY 'sample_messy_folder/Downloads/IMG_2043.png'  ->  './organized/Images/IMG_2043.png'
+  ./organized/Videos/  <- 1 file(s)
+      COPY 'sample_messy_folder/Downloads/big_video_export.mp4'  ->  './organized/Videos/big_video_export.mp4'
+
+Estimated space reclaimable by not duplicating: 89 bytes
+
+No files have been moved, renamed, or deleted.
+Re-run with --execute to approve and apply this exact plan.
+============================================================
